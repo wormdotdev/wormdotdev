@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# worm.dev
+
+Repo for the [blog](https://worm.dev).
+
+This repo will be used for [utterances](https://utteranc.es/) comments, probably.
